@@ -1,2 +1,3 @@
-# starting_browser_selenium
-Configurando e iniciando o driver com selenium e python.
+# Iniciando navegador com Selenium
+
+Configurando preferências e iniciando o driver com selenium e python.
